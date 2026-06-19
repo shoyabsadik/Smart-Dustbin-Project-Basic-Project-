@@ -1,4 +1,4 @@
-# 🗑️ Smart Dustbin (Automatic Lid System)
+# 🗑️ Smart Dustbin Project
 
 An Arduino-based Smart Dustbin that automatically opens its lid when a hand or object comes near using an ultrasonic sensor and closes it automatically using a servo motor.
 
